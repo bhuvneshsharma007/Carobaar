@@ -1,0 +1,22 @@
+{
+  "name": "carobaar",
+  "version": "1.0.0",
+  "description": "A website for Car buy and Sell",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "carobaar",
+    "node",
+    "car",
+    "car",
+    "managment"
+  ],
+  "author": "Bhuvnesh Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
